@@ -20,11 +20,11 @@ git checkout main
 
 --- creates break line
 
-# Formatting - main heading
+# Formatting - main heading - (use hash)
 
-## creates secondary heading  eg creating a repositry
+## creates secondary heading  eg creating a repositry - (use two hash)
 
-### creates smaller heading
+### creates smaller heading - (use three hash)
 
 Use top left button to create three marks to highlight code. Put coding language after marks.
 
@@ -37,9 +37,9 @@ for i range(10)
 	print(i)
 ```	
 
-## Use astrix for italics -
- *repositry* astrix makes it italics. 
- **around word** makes it bold.
+## Use astris for italics -
+ One astris around the word *repositry* makes it italics. 
+ Two astris **around word** makes it bold.
 
 # README file 
 
